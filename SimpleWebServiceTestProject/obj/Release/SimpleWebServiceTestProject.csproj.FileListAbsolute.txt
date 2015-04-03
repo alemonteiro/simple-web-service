@@ -1,0 +1,10 @@
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\SimpleWebServiceTestProject.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\SimpleWebServiceTestProject.pdb
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\SimpleWebService.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\Newtonsoft.Json.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\SimpleWebService.pdb
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\Newtonsoft.Json.pdb
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\bin\Newtonsoft.Json.xml
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\obj\Release\SimpleWebServiceTestProject.csprojResolveAssemblyReference.cache
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\obj\Release\SimpleWebServiceTestProject.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebServiceTestProject\obj\Release\SimpleWebServiceTestProject.pdb

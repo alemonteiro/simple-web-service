@@ -1,0 +1,10 @@
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\bin\Release\SimpleWebService.dll.config
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\bin\Release\SimpleWebService.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\bin\Release\SimpleWebService.pdb
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\bin\Release\Newtonsoft.Json.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\bin\Release\Newtonsoft.Json.pdb
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\bin\Release\Newtonsoft.Json.xml
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\obj\Release\Alcode.SimpleWebService.Resources.resources
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\obj\Release\SimpleWebService.csproj.GenerateResource.Cache
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\obj\Release\SimpleWebService.dll
+D:\Projetos\AlCode\Github\simple-web-service\SimpleWebService\obj\Release\SimpleWebService.pdb

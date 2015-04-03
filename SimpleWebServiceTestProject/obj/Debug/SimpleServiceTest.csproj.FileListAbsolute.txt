@@ -1,0 +1,8 @@
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\obj\Debug\SimpleServiceTest.csprojResolveAssemblyReference.cache
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\bin\SimpleServiceTest.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\bin\SimpleServiceTest.pdb
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\bin\Newtonsoft.Json.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\obj\Debug\SimpleServiceTest.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\obj\Debug\SimpleServiceTest.pdb
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\bin\SimpleWebService.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleServiceTest\SimpleServiceTest\bin\SimpleWebService.pdb

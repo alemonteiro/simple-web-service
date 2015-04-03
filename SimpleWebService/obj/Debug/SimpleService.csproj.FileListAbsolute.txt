@@ -1,0 +1,9 @@
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\obj\Debug\SimpleService.csproj.GenerateResource.Cache
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\obj\Debug\SimpleService.csprojResolveAssemblyReference.cache
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\obj\Debug\Alcode.SimpleWebService.Resources.resources
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\bin\Debug\SimpleWebService.dll.config
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\bin\Debug\SimpleWebService.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\bin\Debug\SimpleWebService.pdb
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\obj\Debug\SimpleWebService.dll
+D:\Projetos\AlCode\Projetos\SimpleService\SimpleService\obj\Debug\SimpleWebService.pdb
